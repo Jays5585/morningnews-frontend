@@ -2,7 +2,7 @@
 	font-family: "Old London";
 	src: url("/fonts/OldLondon.ttf");
 }
-
+@media screen and (min-width: 780px) {
 .header {
 	border-bottom: 2px rgb(233, 190, 89) solid;
 	display: flex;
@@ -10,7 +10,7 @@
 	justify-content: center;
 	align-items: center;
 }
-
+}
 .title {
 	font-size: 44px;
 	font-family: "Old London";
