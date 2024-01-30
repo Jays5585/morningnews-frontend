@@ -29,6 +29,7 @@ function App({ Component, pageProps }) {
     <Provider store={store}>
       <PersistGate persistor={persistor}>
         <Head>
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
           <title>Morning News</title>
         </Head>
         <Header />
