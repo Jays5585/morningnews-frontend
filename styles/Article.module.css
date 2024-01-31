@@ -8,8 +8,9 @@
 @media (max-width: 400px) {
 .articles {
 	width: 80vw;
-	height: 20vh;
+	height: 40vh;
 	margin: auto;
+	justify-content: center;
 
 
 }
