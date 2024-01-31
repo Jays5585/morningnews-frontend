@@ -7,8 +7,9 @@
 }
 @media (max-width: 400px) {
 .articles {
+	display: flex;
 	width: 80vw;
-	height: 60vh;
+	height: 50vh;
 	margin: auto;
 	justify-content: center;
 
