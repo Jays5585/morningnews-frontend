@@ -4,6 +4,7 @@
 	height: 400px;
 	margin: auto;
 }
+}
 @media (max-width: 400px) {
 .articles {
 	width: 80vw;
