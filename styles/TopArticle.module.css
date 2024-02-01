@@ -19,7 +19,7 @@
 .image {
 	width: 600px;
 }
-
+@media (max-width: 400px) {
 .topText {
 	position: absolute;
 	background-color: #fff;
@@ -27,7 +27,17 @@
 	width: 400px;
 	text-align: center;
 	padding: 20px;
-	margin-left: 20vw;
+	margin-left: 10vw;
+}
+}	
+.topText {
+	position: absolute;
+	background-color: #fff;
+	border: 0.5px rgb(233, 190, 89) solid;
+	width: 400px;
+	text-align: center;
+	padding: 20px;
+	margin: center;
 }
 
 .bookmarkIcon {
