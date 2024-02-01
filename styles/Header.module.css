@@ -2,7 +2,7 @@
 	font-family: "Old London";
 	src: url("/fonts/OldLondon.ttf");
 }
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 400px) {
 	
 .header {
 	border-bottom: 2px rgb(233, 190, 89) solid;
@@ -14,7 +14,7 @@
         width: 90%;
 }
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 400px) {
 	
 	.header {
 		border-bottom: 2px rgb(233, 190, 89) solid;
