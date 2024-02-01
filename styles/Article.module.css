@@ -18,7 +18,7 @@
 }
 }
 .divider {
-	width: 100%;
+	width: auto;
 	height: 1px;
 	background-color: rgb(233, 190, 89);
 	margin: 15px 15px 15px 15px
