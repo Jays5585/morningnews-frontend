@@ -42,7 +42,7 @@
 .articleHeader {
 	display: flex;
 	justify-content: space-between;
-	height: 40px;
+	height: 10vh;
 }
 }
 .bookmarkIcon {
