@@ -17,14 +17,14 @@
 }
 }
 .image {
-	width: 700px;
+	width: 600px;
 }
 
 .topText {
 	position: absolute;
 	background-color: #fff;
 	border: 0.5px rgb(233, 190, 89) solid;
-	width: 500px;
+	width: 400px;
 	text-align: center;
 	padding: 20px;
 	margin: center;
