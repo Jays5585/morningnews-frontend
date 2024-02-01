@@ -9,7 +9,7 @@
 .articles {
 	flex-direction: column;
 	width: 200vw;
-	height: 100vh;
+	height: 50vh;
 	
 	margin-left: 40vw;
 	justify-content: center;
