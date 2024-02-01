@@ -24,10 +24,10 @@
 	position: absolute;
 	background-color: #fff;
 	border: 0.5px rgb(233, 190, 89) solid;
-	width: 550px;
+	width: 500px;
 	text-align: center;
 	padding: 20px;
-	margin-left: 10vw;
+	margin-left: 20vw;
 }
 
 .bookmarkIcon {
